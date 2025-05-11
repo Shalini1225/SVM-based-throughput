@@ -42,3 +42,6 @@ I implemented a **multi-class classification model using SVM** to improve how co
 ```text
 Input Signal → Feature Extraction → Pd or Pf + Residual Energy
 → Train SVM Classifier → Predict Optimal Transmission Class
+
+[![Read the Paper](https://img.shields.io/badge/Paper-View-blue)](https://ieeexplore.ieee.org/document/9788317/figures#figures)
+
