@@ -43,5 +43,8 @@ I implemented a **multi-class classification model using SVM** to improve how co
 Input Signal → Feature Extraction → Pd or Pf + Residual Energy
 → Train SVM Classifier → Predict Optimal Transmission Class
 
-[![Read the Paper](https://img.shields.io/badge/Paper-View-blue)](https://ieeexplore.ieee.org/document/9788317/figures#figures)
+## 📄 Related Publication
+
+Check out the full research paper here:  
+[Throughput Maximization Using an SVM for Multi-Class Hypothesis-Based Spectrum Sensing in Cognitive Radio](https://ieeexplore.ieee.org/document/9788317/figures#figures)
 
